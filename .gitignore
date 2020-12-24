@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ZomsOS/v16
+*.obj
+*.idb
+*.pdb
+*.log
+/ZomsOS/x64/*
+/ZomsOS/ZomsOS.vcxproj.user
+/ZomsOS/ZomsOS.vcxproj.filters
+/*.bin
+/*.img
